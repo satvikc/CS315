@@ -1,0 +1,3 @@
+## Assuming you have employees database 
+## to run the script use
+mysql -u <User> --password=<password> -t < Assignment1.sql 
