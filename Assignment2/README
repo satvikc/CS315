@@ -1,0 +1,8 @@
+Assignment 2 of CS315 
+
+plz note python version is 2.7. Needs virtualenv and virtualenvwrapper installed with python2.7.
+
+>> mkvirtualenv -p python2.7 --no-site-packages assignment2
+
+>> pip install -r requirements.txt
+

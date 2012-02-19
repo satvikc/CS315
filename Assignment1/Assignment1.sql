@@ -1,5 +1,8 @@
 -- Satvik Chauhan
 -- Y9521
+-- ## Assuming you have employees database
+-- ## to run the script use
+-- mysql -u <User> --password=<password> -t < Assignment1.sql
 
 USE employees;
 
